@@ -36,7 +36,7 @@ Con este comando podemos generar los certificados para cada API, cambiando reste
 
 ## Video
 
-
+* [Video Explicatorio](https://youtu.be/uACstBlquDY)
 
 ## Construido Con
 
